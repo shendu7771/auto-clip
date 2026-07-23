@@ -1,0 +1,7 @@
+output/
+output2/
+test_images/
+*.jpg
+*.gif
+*.png
+__pycache__/
